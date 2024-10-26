@@ -64,9 +64,9 @@ Hi there! 👋 I'm a Software Engineer from Brazil with a degree in Software Eng
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
----
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIBladeII&show_icons=true&theme=midnight-purple)
+## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIBladeII&show_icons=true&theme=midnight-purple)
+
 
 
 ## 🎯 Personal Interests
