@@ -15,26 +15,21 @@
 - 🔐 Cibersegurança (foco em **Blue Team**)
 - 🔒 Segurança de rede
 - 🐧 Conhecimento em Linux
-- 🖥️ Gerenciamento de servidores
+- 🎮 Criação e gerenciamento de servidores de jogos, além do desenvolvimento de plugins e mods personalizados para enriquecer a experiência dos jogadores.
 - 🌐 Idiomas: Português, Inglês e Espanhol
+
 
 ## Interesses
 
 - ♟️ Apaixonado por xadrez e sua aplicação em lógica e estratégia
-- 💻 Buscando sempre evoluir e compartilhar conhecimento no mundo da programação
+- 🏃 Entusiasta de atletismo
+- 🏋️‍♂️ Frequentador de academia, buscando manter um estilo de vida saudável
+- 📚 Apreciador de leitura, sempre em busca de novos conhecimentos e histórias
 
 Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
 
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
-
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
