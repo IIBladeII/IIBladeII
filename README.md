@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Pedro | Software Engineer
+# 🚀 Pedro (🇧🇷) | Software Engineer
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_ll7ll/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/GQV5bGhnqF)
@@ -8,28 +8,28 @@
 
 </div>
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Olá! 👋 Sou um Engenheiro de Software apaixonado por tecnologia, especializado em desenvolvimento **FullStack** e **Cibersegurança**. Minha experiência abrange desde o desenvolvimento web até a implementação de soluções de segurança, com foco especial em operações de Blue Team.
+Hi there! 👋 I'm a Software Engineer from Brazil with a degree in Software Engineering. Passionate about technology, specialized in **FullStack** development and **Cybersecurity**. My experience ranges from web development to implementing security solutions, with a special focus on Blue Team operations.
 
-## 🛠️ Especialidades
+## 🛠️ Expertise
 
-- 🔧 Desenvolvimento FullStack
-- 🛡️ Cibersegurança (Blue Team)
-- 🔒 Segurança de Rede
-- 🐧 Administração Linux
-- 🎮 Desenvolvimento de Servidores de Jogos
-  - Criação de plugins personalizados
-  - Gerenciamento de infraestrutura
-  - Desenvolvimento de mods
-- 🌐 Fluente em:
-  - 🇧🇷 Português
-  - 🇺🇸 Inglês
-  - 🇪🇸 Espanhol
+- 🔧 FullStack Development
+- 🛡️ Cybersecurity (Blue Team)
+- 🔒 Network Security
+- 🐧 Linux Administration
+- 🎮 Game Server Development
+  - Custom plugin creation
+  - Infrastructure management
+  - Mod development
+- 🌐 Languages:
+  - 🇧🇷 Portuguese
+  - 🇺🇸 English
+  - 🇪🇸 Spanish
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
-### Linguagens de Programação
+### Programming Languages
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,33 +39,33 @@ Olá! 👋 Sou um Engenheiro de Software apaixonado por tecnologia, especializad
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </div>
 
-### Frameworks & Ferramentas
+### Frameworks & Tools
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
-### Sistemas Operacionais
+### Operating Systems
 <div>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </div>
 
-### Bancos de Dados
+### Databases
 <div>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-## 🎯 Interesses Pessoais
+## 🎯 Personal Interests
 
-- ♟️ Xadrez: Apaixonado pelo jogo e sua aplicação em lógica e estratégia
-- 🏃 Atletismo: Entusiasta de corridas e competições
-- 🏋️‍♂️ Fitness: Comprometido com um estilo de vida saudável
-- 📚 Leitura: Sempre em busca de novos conhecimentos e histórias inspiradoras
+- ♟️ Chess: Passionate about the game and its application in logic and strategy
+- 🏃 Athletics: Running and competition enthusiast
+- 🏋️‍♂️ Fitness: Committed to a healthy lifestyle
+- 📚 Reading: Always seeking new knowledge and inspiring stories
 
 <div align="center">
   <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Coding GIF" width="500">
@@ -74,5 +74,5 @@ Olá! 👋 Sou um Engenheiro de Software apaixonado por tecnologia, especializad
 ---
 
 <div align="center">
-  <i>💡 "O conhecimento é poder, mas a aplicação é sabedoria."</i>
+  <i>💡 "Knowledge is power, but application is wisdom."</i>
 </div>
