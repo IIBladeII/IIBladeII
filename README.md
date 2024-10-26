@@ -6,11 +6,23 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+ # Sobre mim
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+👋 Olá! Eu sou o **Pedro**, engenheiro de software com especialização em desenvolvimento **FullStack** e **cibersegurança**. 
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+## Habilidades
+
+- 🔧 Desenvolvimento FullStack
+- 🔐 Cibersegurança
+- 🌐 Idiomas: Português, Inglês e Espanhol
+
+## Interesses
+
+- ♟️ Apaixonado por xadrez e sua aplicação em lógica e estratégia
+- 💻 Buscando sempre evoluir e compartilhar conhecimento no mundo da programação
+
+Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
+
 </p>
 
 <!-- Dropdown -->
