@@ -37,6 +37,7 @@ Hi there! 👋 I'm a Software Engineer from Brazil with a degree in Software Eng
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/SourcePawn-FF6B6B?style=for-the-badge&logo=sourcepawn&logoColor=white" />
 </div>
 
 ### Frameworks & Tools
