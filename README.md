@@ -76,7 +76,7 @@ Hi there! 👋 I'm a Software Engineer from Brazil with a degree in Software Eng
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IIBladeII&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
-  
+  <br><br>
   <img src="https://media.giphy.com/media/L5iCpBsEJN3E59BbxU/giphy.gif" alt="Coding GIF">
 </div>
 
