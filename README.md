@@ -72,7 +72,7 @@ Hi there! 👋 I'm a Software Engineer from Brazil with a degree in Software Eng
 - 📚 Reading: Always seeking new knowledge and inspiring stories
 
 <div align="center">
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Coding GIF" width="500">
+  <img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" alt="Coding GIF" width="500">
 </div>
 
 ---
