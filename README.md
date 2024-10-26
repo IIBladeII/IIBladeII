@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://media.tenor.com/p0G_bmA2vSYAAAAd/welcome.gif" alt="Welcome Banner" width="100%">
   
 # 🚀 Pedro | Software Engineer
 
