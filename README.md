@@ -64,16 +64,19 @@ Hi there! 👋 I'm a Software Engineer from Brazil with a degree in Software Eng
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
----
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIBladeII&show_icons=true&theme=midnight-purple)
----
-
 ## 🎯 Personal Interests
 
 - ♟️ Chess: Passionate about the game and its application in logic and strategy
 - 🏃 Athletics: Running and competition enthusiast
 - 🏋️‍♂️ Fitness: Committed to a healthy lifestyle
 - 📚 Reading: Always seeking new knowledge and inspiring stories
+
+
+---
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIBladeII&show_icons=true&theme=midnight-purple)
+
+
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding Penguin GIF" width="480">
