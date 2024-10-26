@@ -79,7 +79,7 @@ Hi there! 👋 I'm a Software Engineer from Brazil with a degree in Software Eng
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding Penguin GIF" width="480">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding Penguin GIF" width="600">
 </div>
 
 ---
