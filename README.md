@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://media.tenor.com/p0G_bmA2vSYAAAAd/welcome.gif" alt="Welcome Banner" width="100%">
+<img src="https://giphy.com/gifs/xbox-game-xbox-series-x-s-f7JgDdTTa2bqmex2pb" alt="Welcome Banner" width="100%">
+
+
   
 # 🚀 Pedro | Software Engineer
 
