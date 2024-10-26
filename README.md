@@ -6,14 +6,16 @@
 
 <!-- Presentation -->
 <p>
- # Sobre mim
-
-👋 Olá! Eu sou o **Pedro**, engenheiro de software com especialização em desenvolvimento **FullStack** e **cibersegurança**. 
+   
+  👋 Olá! Eu sou o **Pedro**, engenheiro de software com especialização em desenvolvimento **FullStack** e **cibersegurança**.
 
 ## Habilidades
 
 - 🔧 Desenvolvimento FullStack
-- 🔐 Cibersegurança
+- 🔐 Cibersegurança (foco em **Blue Team**)
+- 🔒 Segurança de rede
+- 🐧 Conhecimento em Linux
+- 🖥️ Gerenciamento de servidores
 - 🌐 Idiomas: Português, Inglês e Espanhol
 
 ## Interesses
