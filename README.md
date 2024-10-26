@@ -73,14 +73,11 @@ Hi there! 👋 I'm a Software Engineer from Brazil with a degree in Software Eng
 
 
 ---
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIBladeII&show_icons=true&theme=midnight-purple)
-
-
-
-
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IIBladeII&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
+  
+  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</div>
 
 ---
 
