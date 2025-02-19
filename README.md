@@ -22,7 +22,7 @@ class SoftwareEngineer:
         self.specialities = ["FullStack Development", "Cybersecurity"]
 ```
 
-Passionate Software Engineer with expertise in **FullStack Development** and **Cybersecurity**. I specialize in Blue Team operations and have extensive experience in web development, security implementation, and game server development. Always seeking new challenges and opportunities to innovate in the tech world! 🚀
+Passionate Software Engineer with expertise in **BackEnd Development** and **Cybersecurity**. I specialize in Blue Team operations and have extensive experience in web development, security implementation, and game server development. Always seeking new challenges and opportunities to innovate in the tech world! 🚀
 
 ## 💼 Professional Skills
 
