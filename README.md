@@ -24,6 +24,8 @@ class SoftwareEngineer:
 
 Passionate Software Engineer with expertise in **BackEnd Development** and **Cybersecurity**. I specialize in Blue Team operations and have extensive experience in web development, security implementation, and game server development. Always seeking new challenges and opportunities to innovate in the tech world! 🚀
 
+Throughout my career as a Backend Developer, I've worked on diverse projects including: - Web development and maintenance - Database management and optimization - Remote and on-site technical support - Linux server administration - Custom game mods and plugins development - Specialized hardware and software solutions
+
 ## 💼 Professional Skills
 
 ```mermaid
