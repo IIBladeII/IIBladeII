@@ -4,9 +4,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-riccio/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://pedro-dev-cyan.vercel.app/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://discordia-server.ddns.net/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/GQV5bGhnqF)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_ll7ll/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroworkdev@gmail.com)
 
 </div>
 
@@ -15,16 +15,29 @@
 ```python
 class SoftwareEngineer:
     def __init__(self):
-        self.name = "Pedro"
-        self.role = "Software Engineer"
+        self.name = "Pedro Riccio"
+        self.role = "Backend Software Engineer"
         self.location = "Brazil"
-        self.languages = ["Portuguese", "English", "Spanish"]
-        self.specialities = ["FullStack Development", "Cybersecurity"]
+        self.email = "pedroworkdev@gmail.com"
+        self.languages = ["Portuguese (Native)", "English (Intermediate)", "Spanish (Intermediate)"]
+        self.specialities = ["Backend Development", "Cybersecurity", "Technical Management"]
+        self.focus = ["Server Architecture", "Distributed Systems", "Digital Security"]
 ```
 
-Passionate Software Engineer with expertise in **BackEnd Development** and **Cybersecurity**. I specialize in Blue Team operations and have extensive experience in web development, security implementation, and game server development. Always seeking new challenges and opportunities to innovate in the tech world! 🚀
+**Software Engineer** specialized in **BACKEND** development, with solid experience in **cybersecurity** and **technical management**. Professional who masters server architectures and distributed systems, complemented by frontend skills for creating complete technological solutions.
 
-Throughout my career as a Backend Developer, I've worked on diverse projects including: - Web development and maintenance - Database management and optimization - Remote and on-site technical support - Linux server administration - Custom game mods and plugins development - Specialized hardware and software solutions
+Specialist in high-impact digital security projects, combining technical efficiency with administrative competencies for strategic results. I work as a **Freelance Backend Developer**, providing website development and maintenance services, database management, and system implementation.
+
+### 🚀 Professional Experience
+
+- **Backend Developer (Freelancer)**
+- **Technical Support** (Remote/On-site)
+- **Website Development and Maintenance**
+- **Database Management**
+- **Computer maintenance and technical support**
+- **Linux Server Management**
+- **Game mods and plugins development**
+- **Custom hardware and software solutions**
 
 ## 💼 Professional Skills
 
@@ -45,33 +58,89 @@ mindmap
       DevOps
 ```
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 🔙 Back-End Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🎨 Front-End Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### 🗄️ Databases & DevOps
+### 🗄️ Database Management
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🏗️ Frameworks & DevOps Tools
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🎨 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 📊 Microsoft Office Suite
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
+**Advanced proficiency in:**
+- Microsoft Excel (complex formulas, pivot tables, macros)
+- Microsoft Word (advanced formatting, mail merge, technical documentation)
+- Microsoft PowerPoint (professional presentations, multimedia resources)
+- Microsoft Outlook (email management, calendars, and tasks)
+
+### 🏛️ Development Principles & Methodologies
+- **MVC** (Model-View-Controller)
+- **DDD** (Domain-Driven Design)
+- **SOLID** Principles
+- **Clean Code**
+- **KISS** (Keep It Simple, Stupid)
+
+## 🎓 Academic Background
+
+**Technology Degree in Systems Analysis and Development**  
+*Uniamérica* | 2022 - 2025 | **Completed**
+
+**Postgraduate in Software Engineering**  
+*Uniamérica* | 2025 - **In Progress**
+
+## 🏆 Certifications
+
+### Google
+- Computer Network Structure and Operations
+- Technical Support Fundamentals
+
+### Alura
+- Python
+- Networks
+- MySQL
+- Linux
+- Java
+- Frontend
+- Backend
+
+### Uniamérica
+- Cybersecurity
+- BI and Big Data
+- Mobile Developer
+- Intelligent Data Structures
+
+## 🌍 Languages
+
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Spanish-Intermediate-orange?style=for-the-badge)
 
 ## 🌟 Interests & Hobbies
 
@@ -99,3 +168,4 @@ mindmap
 *Open for collaborations and new opportunities!*
 
 </div>
+
