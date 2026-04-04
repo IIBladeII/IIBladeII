@@ -327,15 +327,7 @@ Software Engineering · Data Structures · Distributed Systems
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIBladeII&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IIBladeII&bg_color=0D1117&color=00D9FF&line=00D9FF&point=7928ca&area=true&hide_border=true" alt="Activity Graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=IIBladeII&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
