@@ -347,6 +347,6 @@ Software Engineering · Data Structures · Distributed Systems
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Open+for+collaborations+and+new+opportunities!;Backend+%7C+Infrastructure+%7C+B2B+%7C+Cybersecurity;Let's+build+something+remarkable+together alt="Footer Typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Open+for+collaborations+and+new+opportunities!;Backend+%7C+Infrastructure+%7C+B2B+%7C+Cybersecurity;Let%27s+build+something+remarkable+together!" alt="Footer Typing"/>
 
 </div>
