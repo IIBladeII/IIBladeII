@@ -36,7 +36,7 @@ class PedroRiccio:
 
     name     = "Pedro Riccio"
     role     = "Backend Engineer & IT Analyst"
-    location = "Nilo Peçanha, BA — Brazil 🇧🇷"
+    location = "Taperoá, BA — Brazil 🇧🇷"
     email    = "pedroworkdev@gmail.com"
 
     current = {
